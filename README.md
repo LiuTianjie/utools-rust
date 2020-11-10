@@ -2,15 +2,15 @@
 
 * 启动界面
 
-![截屏2020-11-10 17.35.04](https://images.nickname4th.vip/截屏2020-11-10 17.35.04.png)
+![start](https://images.nickname4th.vip/start.png)
 
 * rust标准库文档
 
-  ![截屏2020-11-10 17.37.33](https://images.nickname4th.vip/截屏2020-11-10 17.37.33.png)
+  ![standard](https://images.nickname4th.vip/standard.png)
 
 * rust编译器crates
 
-  ![截屏2020-11-10 17.37.59](https://images.nickname4th.vip/截屏2020-11-10 17.37.59.png)
+  ![rustc](https://images.nickname4th.vip/rustc.png)
 
 #### 使用方法
 
