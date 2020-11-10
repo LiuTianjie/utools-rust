@@ -1,0 +1,17 @@
+{
+    "pluginName": "RustDoc",
+    "description": "一个快速浏览Rust文档的插件",
+    "version": "0.0.1",
+    "main": "index.html",
+    "author": "Nickname4th",
+    "features": [
+        {
+            "code": "rs",
+            "explain": "rust",
+            "cmds": [
+                "rs"
+            ]
+        }
+    ],
+    "logo": "./rust-logo.png"
+}
